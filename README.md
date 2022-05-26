@@ -1,3 +1,3 @@
 # Movie App 2022
 
-React JS Fundamentals Course 2022
+영화 앱 클론 코딩을 위한 레파지토리입니다.
